@@ -1,26 +1,46 @@
-# FUTURE_DS_01
-Internship project on business sales analytics
-FUTURE_DS_01/
-├── Dataset/
-│   ├── raw/                        
-│   ├── cleaned/                   
-│   └── data_dictionary.md         
-│
-├── PowerBI/
-│   ├── Business_Sales_Dashboard.pbix   
-│   └── visuals/                        
-│
-├── Docs/
-│   ├── internship_brief.pdf       
-│   ├── methodology.md            
-│   └── insights_summary.md       
-│
-├── Screenshots/
-│   ├── dashboard_overview.png     
-│   ├── sales_trends.png           
-│   └── performance_metrics.png    
+# 📊 FUTURE_DS_01 – Business Sales Dashboard
 
-├── README.md                      
-                     
-🚧 Project in Progress  
-This repository outlines the planned structure for my Business Sales Dashboard project under the Future Interns Fellowship. Content will be added as the project evolves.
+## 🎯 Project Overview
+This repository contains my internship project for the **Future Interns Data Science & Analytics Fellowship**. The goal is to analyze e-commerce sales data and build a Power BI dashboard that highlights best-selling products, sales trends, and high-revenue categories.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Dashboard creation and DAX measures
+- **Power Query** – Data cleaning and transformation
+- **Excel** – Initial data exploration
+- **GitHub** – Version control and documentation
+
+---
+
+## 📁 Folder Structure
+See full folder layout above. Each folder is organized to reflect the lifecycle of the project—from raw data to final insights.
+
+---
+
+## 📊 Key Metrics & Visuals
+- Total Sales, Profit, Quantity
+- Monthly Sales & Profit Trends
+- Category-wise Revenue Distribution
+- Regional Performance Analysis
+
+---
+
+## 📌 Status
+✅ Offer Letter Uploaded  
+✅ GitHub Repository Created  
+🚧 Dashboard Development In Progress  
+📢 LinkedIn Post Scheduled
+
+---
+
+## 🔗 LinkedIn Post
+Shared my internship kickoff and offer letter on LinkedIn.  
+Tag: **@Future Interns** | Hashtag: **#futureinterns**
+
+---
+
+## 📬 Contact
+📧 rithvik440@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/poka-rithvik-chowdary-035bb2312)
+
