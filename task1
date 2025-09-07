@@ -1,7 +1,0 @@
-task/
- ├── business_sales_dashboard.pbix
- ├── dataset.csv
- ├── README.md
- └── screenshots/
-      ├── dashboard_preview.png
-
